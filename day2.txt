@@ -1,6 +1,6 @@
-this is osf day 2 
+things we learnt:
 
-i hope ....... gjgjj
-
-a third line
-a fourth line
+git init
+git commit 
+git add --all (staging)
+git push
