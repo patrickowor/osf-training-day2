@@ -1,6 +1,6 @@
 things we learnt:
 
-git init
-git commit 
-git add --all (staging)
-git push
+git init // we initialized a project
+git commit // we commited a project
+git add --all (staging) // we staged a project
+git push // we pushed it to the remote
